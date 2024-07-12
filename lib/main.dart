@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Donitaa Client',
+      title: 'Diliverr',
       locale: const Locale('en'),
       localizationsDelegates: const [
         S.delegate,
